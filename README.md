@@ -367,9 +367,9 @@ If you use this code or methodology, please cite:
 ```bibtex
 @techreport{milestone2025,
   title={Fall 2025 Milestone: Baseline Evaluation and Brainstorm for Temporal Point Processes},
-  author={[Your Name]},
+  author={Josh Job Joseph},
   year={2025},
-  institution={[Your Institution]}
+  institution={Baylor University}
 }
 ```
 
